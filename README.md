@@ -13,6 +13,7 @@ https://github.com/tuefekci/php-benchmark was used for benchmarks, of course the
 - Memory: 15,5 GiB
 
 #### PHPKG
+```
 --------------------------------------
         PHP BENCHMARK SCRIPT        
 --------------------------------------
@@ -26,8 +27,9 @@ test_Loops                : 61.521 sec.
 test_IfElse               : 0.061 sec.
 --------------------------------------
 Total time:               : 64.334 sec.
-
+```
 #### Native
+```
 --------------------------------------
         PHP BENCHMARK SCRIPT        
 --------------------------------------
@@ -41,3 +43,4 @@ test_Loops                : 64.610 sec.
 test_IfElse               : 0.057 sec.
 --------------------------------------
 Total time:               : 67.316 sec.
+```
