@@ -9,9 +9,8 @@ Package your PHP project into an executable for Linux, Mac and Windows.
 https://github.com/tuefekci/php-benchmark was used for benchmarks, of course these are not really absolute values and dont indicate real application performance, if somebody has a better benchmark please message me.
 
 #### System
-popos
-Processor: Intel® Core™ i5-8259U CPU @ 2.30GHz × 8 
-Memory: 15,5 GiB
+- Processor: Intel® Core™ i5-8259U CPU @ 2.30GHz × 8 
+- Memory: 15,5 GiB
 
 #### PHPKG
 --------------------------------------
